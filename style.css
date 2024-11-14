@@ -1,0 +1,32 @@
+.a{
+    text-align: center;
+    font-size: 60px;
+    color: white;
+margin: 30px 421px;  
+    background: #311313;
+
+}
+.b{
+    background: #1FE8B7;
+    color: black;
+    text-align: center;
+    font-size: 35px;
+    margin: 50px;
+}
+body{
+    background-color: #2A5D5A;
+
+
+}
+.c{
+    background-color: black;
+    border: 10px solid red;
+}
+.qwerty{
+    background: #1FE8B7;
+    color: black;
+    text-align: center;
+    font-size: 35px;
+    margin: 50px;
+
+}
